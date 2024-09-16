@@ -8,6 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: blueviolet;
 }
 
 .galeria {
@@ -16,6 +17,7 @@ body {
     grid-template-columns: repeat(3, auto);
     gap: 10px;
 }
+
 
 .galeria a,
 .galeria img {
